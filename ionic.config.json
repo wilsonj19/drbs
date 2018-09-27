@@ -1,0 +1,8 @@
+{
+  "name": "drbs",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular",
+  "pro_id": "d5cc791c"
+}
